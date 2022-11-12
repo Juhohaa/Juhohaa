@@ -1,7 +1,7 @@
 <h1 align="center">Juho Haavisto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhohaa&label=Profile%20views&color=0e75b6&style=flat" alt="juhohaa" /> </p>
 
-- 📫 How to reach me **juho.haavisto@outlook.com**
+- 📫 Email **juho.haavisto@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
