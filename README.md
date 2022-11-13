@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juho Haavisto</h1>
 
 <h3 align="left">Connect with me:</h3>
+
 - 📫Email **juho.haavisto@outlook.com**
 
 <h3 align="left">You can find me on:</h3>
