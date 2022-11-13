@@ -1,9 +1,10 @@
 <h1 align="center">Juho Haavisto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhohaa&label=Profile%20views&color=0e75b6&style=flat" alt="juhohaa" /> </p>
 
+<h3 align="left">Connect with me:</h3>
 - 📫 Email **juho.haavisto@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juho-haavisto-4b84a7204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juho-haavisto-4b84a7204" height="30" width="40" /></a>
 </p>
