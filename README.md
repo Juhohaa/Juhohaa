@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juho Haavisto</h1>
 <h3 align="center">Connect with me:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhohaa&label=Profile%20views&color=0e75b6&style=flat" alt="juhohaa" /> </p>
-
 - 📫Email **juho.haavisto@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhohaa&show_icons=true&locale=en" alt="juhohaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhohaa&" alt="juhohaa" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhohaa&label=Profile%20views&color=0e75b6&style=flat" alt="juhohaa" /> </p>
